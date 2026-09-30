@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Harrys Yusti
 
-<!--
-**harrysxavio/harrysxavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Operations × Technology × AI
 
-Here are some ideas to get you started:
+Mechanical Engineer and builder with 10+ years connecting **operations, supply chain, data and technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn messy processes into **simpler, measurable and smarter systems**. ⚙️ → 📊 → 🤖
+
+### 🚀 Currently building
+
+🤖 AI agents & multi-agent systems  
+🔄 Business process automation  
+🧠 Local AI, LLMs & agent orchestration  
+📦 AI applied to Supply Chain & Operations  
+
+### 🛠️ Toolbox
+
+`SAP` `WMS` `SQL` `BigQuery` `Power BI` `Python` `n8n` `Databricks`  
+`LLMs` `AI Agents` `Ollama` `Codex` `OpenCode`
+
+### 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harrys_Yusti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-yusti/)
+
+> **Build. Break. Learn. Improve. Repeat.** 🚀
